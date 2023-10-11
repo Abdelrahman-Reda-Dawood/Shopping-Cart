@@ -7,32 +7,32 @@
   },
   {
     "id": 2,
-    "name": "Computer",
-    "price": 1199,
-    "imgUrl": "/imgs/computer.jpg"
-  },
-  {
-    "id": 3,
-    "name": "Banana",
-    "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg"
-  },
-  {
-    "id": 4,
-    "name": "Car",
-    "price": 14000,
-    "imgUrl": "/imgs/car.jpg"
-  },
-  {
-    "id": 5,
     "name": "Iphone",
-    "price": 11000,
+    "price": 1500,
     "imgUrl": "/imgs/phone.jpg"
   },
   {
-    "id": 6,
+    "id": 3,
+    "name": "Mouse",
+    "price": 199,
+    "imgUrl": "/imgs/mouse.jpg"
+  },
+  {
+    "id": 4,
     "name": "Headset",
-    "price": 900,
+    "price": 300,
     "imgUrl": "/imgs/headset.png"
+  },
+  {
+    "id": 5,
+    "name": "Laptop",
+    "price": 3000,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/car.jpg"
   }
 ]
